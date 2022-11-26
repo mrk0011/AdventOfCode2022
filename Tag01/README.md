@@ -16,12 +16,12 @@ public class Tag1 {
 
 ## Input
 ```
-INPUT OF 1 1
+INPUT OF DAY 1
 
 ```
 
 ## Output
 ```
-OUTPUT OF 1 1 oeihföosihf
+OUTPUT OF DAY 1 oeihföosihf
 
 ```
